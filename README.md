@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jack-Justus
+- 👀 I’m interested in java
+- 🌱 I’m currently learning ftc api
+- 📫 How to reach me email
